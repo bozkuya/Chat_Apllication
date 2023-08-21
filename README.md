@@ -2,7 +2,6 @@
 
 A real-time chat application powered by Spring Boot and WebSocket. Users can send and receive messages in real-time, making it a great starting point for those looking to understand WebSocket integration with Spring.
 
-![Chat Screenshot](path_to_screenshot_image)
 
 ## Features
 
@@ -27,4 +26,4 @@ A real-time chat application powered by Spring Boot and WebSocket. Users can sen
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/websocket-chat.git
+git clone https://github.com/bozkuya/Chat_Apllication.git
